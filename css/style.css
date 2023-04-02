@@ -1,0 +1,28 @@
+aside {
+    width: 25%;
+    padding: 10px;
+    background-color: brown;
+  }
+  header,
+  nav,
+  footer,
+  main {
+    padding: 10px;
+   
+  }
+  main {
+    width: 100%;
+  }
+  .main-content {
+    width: 70%;
+    background-color: #DCDCDC;
+  }
+  footer {
+    background-color: blueviolet;
+    color: white;
+  }
+  nav {
+    background-color: rgb(111, 0, 255);
+    box-shadow: 0cqi;
+    margin-bottom: 34px;
+  }
